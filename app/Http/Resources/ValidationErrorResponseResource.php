@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Rex\Http\Resources;
+namespace App\Http\Resources;
 
 use App\Http\Resources\BaseResponseResource;
 use Symfony\Component\HttpFoundation\Response;

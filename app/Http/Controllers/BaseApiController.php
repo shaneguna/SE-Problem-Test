@@ -8,7 +8,7 @@ use App\Exceptions\Interfaces\ResourceableInterface;
 use App\Http\Resources\EmptyResource;
 use App\Http\Resources\ErrorResponseResource;
 use App\Http\Resources\ExceptionResponseResource;
-use Rex\Http\Resources\ValidationErrorResponseResource;
+use App\Http\Resources\ValidationErrorResponseResource;
 
 abstract class BaseApiController
 {
