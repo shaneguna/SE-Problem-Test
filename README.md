@@ -16,8 +16,8 @@ Clone and install by running command `<projectRoot>./vendor/bin/sail up --build`
 Copy and rename .env.example to .env and add appropriate values.
 
 Due to tight schedule and for presentation purposes, project has been limited to the following endpoints. 
-http://localhost/api/export?type=playerStats
-http://localhost/api/export?type=playerStats&format=xml
+- http://localhost/api/export?type=playerStats
+- http://localhost/api/export?type=playerStats&format=xml
 
 # Database
 A copy of the NBA2019.sql prepared data dump has been included.
