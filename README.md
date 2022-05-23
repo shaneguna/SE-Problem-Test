@@ -15,7 +15,7 @@ Clone and install by running command `<projectRoot>./vendor/bin/sail up --build`
 
 Copy and rename .env.example to .env and add appropriate values.
 
-Due to tight schedule and for presentation purposes, project has been limited to the following endpoints. 
+Test endpoints
 - http://localhost/api/export?type=playerStats
 - http://localhost/api/export?type=playerStats&format=xml
 
